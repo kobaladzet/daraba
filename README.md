@@ -1,5 +1,5 @@
 # Daraba
-![image](https://github.com/kobaladzet/daraba/assets/115710162/6d63430e-ea54-4555-b65f-1514c1a29c8d)
+![image](https://github.com/kobaladzet/daraba/assets/115710162/9782c8ae-6151-48d7-837f-55047f608bec)
 
 პროექტის დახმარებით, შეგიძლიათ წამოიღოთ daraba.art-ის ოფიციალური ვებ-გვერდის პირველ 5 გვერდზე ატვირტული ნამუშევრების სათაურები, ავტორები და მათი ფასები, რომლებიც შეინახება csv ფაილში.
 
