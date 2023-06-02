@@ -5,15 +5,11 @@
 
 კოდში გამოყენებულია შემდეგი მოდულები:
 
-•	requests
-
-•	Time
-
-•	random
-
-•	BeautifulSoup
-
-•	Csv
+* requests
+* Time
+* random
+* BeautifulSoup
+* Csv
 
 თითოეულ გვერდზე request-ის გაგზავნებს შორის ხანგრძლივობა 15-20 წამია.
 
